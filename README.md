@@ -5,31 +5,34 @@ Security analysis- Firewall rules, alerts &amp; response, VPN encryption, IDS ru
 # DFI Environment Monitoring & Security
 
 ## Project Overview
-
-Organization: Douglas Financials Inc (DFI)  
-Role: Security Analyst  
-Assignment: 2-week security hardening and monitoring project  
+**Organization**: Douglas Financials Inc (DFI)  
+**Assignment**: 2-week hardening, monitoring, and incident analysis  
+**Role**: Security Analyst  
 
 
 ---
+
 ## What I Did
 
-### Week 1: Security Analysis & OS Hardening
-- Analyzed Windows server for security vulnerabilities
-- Applied Defense-in-Depth and Least Privilege principles
-- Enabled required security services
-- Fixed folder permissions and access controls
-- Documented compliance gaps and recommendations
-  
+- Performed OS hardening (Windows Server) and tracked server roles
+- Fixed folder permissions, applied Defense-in-Depth and Least Privilege
+- Created and documented Cisco firewall ACLs for new business partners
+- Built custom IDS/Snort signatures for threat detection
+- Verified file hashes for integrity
+- Automated log review for failed RDP attempts and events
+- Managed Linux directory structures and groups with correct access
+- Documented automation and suggested SOAR integration
 
-### Week 2: Network Security & Monitoring
-- Created firewall rules for business partnerships
-- Recommended VPN encryption standards
-- Developed IDS/Snort detection signatures
-- Performed file integrity verification
-- Analyzed system logs and RDP access patterns
-- Configured Linux directory structure and user groups
-- Documented automation and response procedures
+---
+
+## Skills Demonstrated
+
+Windows server hardening  
+Network firewall config (Cisco ACLs)  
+IDS/IPS rule writing  
+Log analysis and automation  
+Linux access control  
+Incident detection response
 
 ----
 
