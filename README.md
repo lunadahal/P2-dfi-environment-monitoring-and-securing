@@ -12,7 +12,6 @@ Assignment: 2-week security hardening and monitoring project
 
 
 ---
-
 ## What I Did
 
 ### Week 1: Security Analysis & OS Hardening
