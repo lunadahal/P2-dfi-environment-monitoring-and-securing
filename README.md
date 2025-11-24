@@ -1,5 +1,5 @@
 # dfi-environment-monitoring-and-securing
-Security analysis: Firewall rules, alerts &amp; response, VPN encryption, IDS rules, file hash verification, automation, RDP logging, Linux data management, directories &; groups. Udacity Cybersecurity Nanodegree.
+Security analysis- Firewall rules, alerts &amp; response, VPN encryption, IDS rules, file hash verification, automation, RDP logging, Linux data management, directories &; groups. Udacity Cybersecurity Nanodegree.
 
 
 # DFI Environment Monitoring & Security
