@@ -30,3 +30,7 @@ Assignment: 2-week security hardening and monitoring project
 - Analyzed system logs and RDP access patterns
 - Configured Linux directory structure and user groups
 - Documented automation and response procedures
+
+----
+
+Full project reports , requirement and solutions/evidence files are available in the folder.
